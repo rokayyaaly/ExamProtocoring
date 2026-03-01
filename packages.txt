@@ -1,0 +1,11 @@
+download this in the terminal
+
+.\.venv\Scripts\pip install ultralytics
+.\.venv\Scripts\pip install opencv-python
+.\.venv\Scripts\pip install cvzone
+
+
+
+Quick Check
+To confirm installation:
+.\.venv\Scripts\pip list
